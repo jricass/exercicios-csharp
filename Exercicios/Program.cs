@@ -149,7 +149,7 @@ public class Program
         int escolha = 0;
         while (escolha != 5)
         {
-            Console.WriteLine("1. Data formato completo");
+            Console.WriteLine("1. Data formato completo ");
             Console.WriteLine("2. Data formato \"XX/XX/XXXX\"");
             Console.WriteLine("3. Apenas Hora no formato 24h");
             Console.WriteLine("4. Data com mês por extenso");
